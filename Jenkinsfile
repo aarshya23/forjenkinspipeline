@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('First') {
             steps {
-                echo "This is 1st stage"
+                echo "This is 1st stage from my repo"
             }
         }
         stage('Second') {
